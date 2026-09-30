@@ -15,8 +15,9 @@ class Solution {
                 ans[i] = open % 2;
                 open--;
             }
-            
+
             i++;
+            
         }
 
         return ans;
